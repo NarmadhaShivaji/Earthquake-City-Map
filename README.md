@@ -9,4 +9,4 @@ A Java-based earthquake visualization application using UnfoldingMap and USGS ea
 ## Setup
 1. Clone the repo:  
    ```sh
-   git clone https://github.com/NarmadhaShivaji/EarthquakeCityMap.git
+   git clone https://github.com/NarmadhaShivaji/Earthquake-City-Map.git
