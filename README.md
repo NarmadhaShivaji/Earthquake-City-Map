@@ -14,9 +14,9 @@ A Java-based earthquake visualization application using UnfoldingMap and USGS ea
 Open the project in Eclipse, IntelliJ IDEA, or NetBeans.
 3. Install Dependencies
 Add the following libraries to your project:
-Processing Core (core.jar)
-UnfoldingMaps (unfolding.jar)
-Gson (gson.jar)
+- Processing Core (core.jar)
+- UnfoldingMaps (unfolding.jar)
+- Gson (gson.jar)
 4. Run the Application:
-Open EarthquakeCityMap.java.
-Click Run or execute
+- Open EarthquakeCityMap.java.
+- Click Run or execute
